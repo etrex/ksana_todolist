@@ -1,0 +1,25 @@
+{
+  "name": "ksana2015-scaffold-reflux",
+  "description": "New reflux application",
+  "version": "0.0.1",
+  "main": "index.html",
+  "inject-js-start": "nwmain.js",
+  "single-instance": true,
+  "window": {
+    "toolbar": true,
+    "width": 1060,
+    "height": 700
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/etrex/ksana_todolist.git"
+  },
+  "gitHead": "4746b4e2e1f0629e192abb4e4a721c178c5ed2e8",
+  "readme": "scaffold for ksana2015 app\r\n====\r\n\r\ninstall github.com/ksanaforge/ksana2015\r\n\r\nks mkdb sample\r\n\r\nreact-bundle.js is created with \r\n\r\n    browserify -r react -r react/addons > react-bundle.js",
+  "readmeFilename": "README.md",
+  "_id": "ksana2015-scaffold-reflux@0.0.1",
+  "_shasum": "52b6749df8f0f15519b8085f63827018e448cdd8",
+  "_from": "C:\\Users\\sce\\AppData\\Local\\Temp\\npm-5764-2b5d0147\\git-cache-fbdfbf5c2a9e\\4746b4e2e1f0629e192abb4e4a721c178c5ed2e8",
+  "_resolved": "git+https://github.com/ksanaforge/ksana2015-scaffold-reflux.git#4746b4e2e1f0629e192abb4e4a721c178c5ed2e8"
+}
